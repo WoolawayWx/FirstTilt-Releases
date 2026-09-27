@@ -10,6 +10,19 @@ under the new version when you release.
 
 ## [Unreleased]
 
+## [0.4.0] - 2026-09-26
+
+### Added
+- Copies installed from the Mac DMG or the Windows installer can now update themselves: choose
+  **Update now** in Settings and FirstTilt downloads, installs, and restarts into the new version.
+  Updates are signature-checked before installing. Updating from 0.3.0 still needs one manual
+  download.
+- The Mac installer now opens to a window where you drag FirstTilt into Applications.
+
+### Changed
+- "What's new" now opens automatically only after feature updates (minor or major versions), not
+  after bug-fix updates. Every release's notes are still in Help → What's new.
+
 ## [0.3.0] - 2026-09-26
 
 ### Added
