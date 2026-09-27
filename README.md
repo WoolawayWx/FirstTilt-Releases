@@ -7,6 +7,8 @@ A lightweight, high-performance desktop weather radar application engineered for
 
 Developed by **WoolawayWx** • Free to Use
 
+![Downloads](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.total&label=Downloads&color=2f81f7&logo=github) ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.macos&label=macOS&color=2f81f7&logo=apple) ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.windows&label=Windows&color=2f81f7&logo=windows)
+
 ---
 
 ## Overview
@@ -27,10 +29,10 @@ Developed by **WoolawayWx** • Free to Use
 
 ## Download & Installation
 
-**Latest version: 0.4.0**
+**Latest version: 0.5.0**
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.4.0/FirstTilt_0.4.0_apple-silicon.dmg)
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.4.0/firsttilt_0.4.0_x64-setup.exe)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.5.0/FirstTilt_0.5.0_apple-silicon.dmg)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.5.0/firsttilt_0.5.0_x64-setup.exe)
 
 Portable copies that don't need installing are listed under **Assets** on the
 [latest release](https://github.com/WoolawayWx/FirstTilt-Releases/releases/latest).
@@ -59,18 +61,52 @@ When a new version is out, FirstTilt tells you in Settings, and **Update now** i
 For a complete record of updates, bug fixes, and feature additions, see the
 [full changelog](CHANGELOG.md) or the [GitHub Releases](https://github.com/WoolawayWx/FirstTilt-Releases/releases) page.
 
-### What's new in 0.4.0
+### Downloads by version
+
+Download counts update once a day.
+
+| Version | Released | macOS | Windows | Total |
+| --- | --- | --- | --- | --- |
+| [0.5.0](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.5.0) | 2026-09-27 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.0%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.0%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.0%27%5D.total&label=Total&color=2f81f7) |
+| [0.4.0](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.4.0) | 2026-09-26 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.4.0%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.4.0%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.4.0%27%5D.total&label=Total&color=2f81f7) |
+| [0.3.0](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.3.0) | 2026-09-26 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.3.0%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.3.0%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.3.0%27%5D.total&label=Total&color=2f81f7) |
+| [0.2.2](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.2.2) | 2026-09-10 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.2.2%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.2.2%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.2.2%27%5D.total&label=Total&color=2f81f7) |
+
+### What's new in 0.5.0
 
 #### Added
-- Copies installed from the Mac DMG or the Windows installer can now update themselves: choose
-  **Update now** in Settings and FirstTilt downloads, installs, and restarts into the new version.
-  Updates are signature-checked before installing. Updating from 0.3.0 still needs one manual
-  download.
-- The Mac installer now opens to a window where you drag FirstTilt into Applications.
+- Press Cmd (macOS) or Ctrl (Windows/Linux) + Plus/Minus to scale the size of the whole interface,
+  and +0 to reset it. This scales the UI itself, not the window.
+- Archive viewer: open a folder or a selection of local NEXRAD Level II archive volume files
+  to view them as a fixed loop, separate from the live site — a new header button, or
+  Settings → Archive. "Back to Live" returns to whatever site was showing. Weather alerts and
+  the live-status/History controls are hidden while an archive is open, since they don't apply
+  to historical data.
+- Differential Phase is now a selectable product, alongside the existing five.
+- Each pane can now show a different elevation tilt instead of always the lowest one, via a new
+  picker next to the product selector. Available on archive volumes and any current/history-
+  loaded frame; not yet available on the freshest still-arriving live frame.
 
 #### Changed
-- "What's new" now opens automatically only after feature updates (minor or major versions), not
-  after bug-fix updates. Every release's notes are still in Help → What's new.
+- The app's interface now uses a cleaner built-in font, with a bolder weight for headings and
+  buttons. Map place labels are unaffected and still follow the font chosen in Settings.
+- Correlation Coefficient now renders with its own color table (low correlation in browns/
+  oranges for non-precipitation returns, blues approaching white near 1.0 for uniform
+  precipitation) instead of the generic ramp shared with other secondary products.
+- A product with no data in the current frame (e.g. dual-pol products on an older, pre-dual-pol
+  volume) now shows grayed out in the product picker instead of being selectable to a blank view.
+
+#### Fixed
+- In 2- and 4-pane layouts, each pane's product picker could render on top of the Settings and
+  animation-export windows instead of behind them.
+- Clutter Filter Power's data was silently dropped during frame compaction, so it never actually
+  had anything to display even before today.
+- Fixed the map briefly rendering blank and the app dropping frames when the UI scale was set
+  smaller than 100%.
+- The "Saved screenshot/animation to..." message now fades out on its own a few seconds after
+  saving.
+- The Windows app icon is now embedded in the executable, so it shows correctly in Explorer, the
+  desktop shortcut, and the taskbar.
 
 ---
 
