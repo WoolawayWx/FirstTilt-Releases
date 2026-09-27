@@ -10,6 +10,14 @@ under the new version when you release.
 
 ## [Unreleased]
 
+## [0.5.1] - 2026-09-27
+
+### Fixed
+- Fixed in-app updates on macOS failing with "failed to unpack `._FirstTilt.app`" — the signed
+  update archive could include a stray macOS metadata file alongside the real app.
+- An available update now shows a centered popup the first time this session, instead of only a
+  small toolbar icon that was easy to miss. The full details still live in Settings too.
+
 ## [0.5.0] - 2026-09-27
 
 ### Added
