@@ -10,6 +10,42 @@ under the new version when you release.
 
 ## [Unreleased]
 
+## [0.5.0] - 2026-09-27
+
+### Added
+- Press Cmd (macOS) or Ctrl (Windows/Linux) + Plus/Minus to scale the size of the whole interface,
+  and +0 to reset it. This scales the UI itself, not the window.
+- Archive viewer: open a folder or a selection of local NEXRAD Level II archive volume files
+  to view them as a fixed loop, separate from the live site — a new header button, or
+  Settings → Archive. "Back to Live" returns to whatever site was showing. Weather alerts and
+  the live-status/History controls are hidden while an archive is open, since they don't apply
+  to historical data.
+- Differential Phase is now a selectable product, alongside the existing five.
+- Each pane can now show a different elevation tilt instead of always the lowest one, via a new
+  picker next to the product selector. Available on archive volumes and any current/history-
+  loaded frame; not yet available on the freshest still-arriving live frame.
+
+### Changed
+- The app's interface now uses a cleaner built-in font, with a bolder weight for headings and
+  buttons. Map place labels are unaffected and still follow the font chosen in Settings.
+- Correlation Coefficient now renders with its own color table (low correlation in browns/
+  oranges for non-precipitation returns, blues approaching white near 1.0 for uniform
+  precipitation) instead of the generic ramp shared with other secondary products.
+- A product with no data in the current frame (e.g. dual-pol products on an older, pre-dual-pol
+  volume) now shows grayed out in the product picker instead of being selectable to a blank view.
+
+### Fixed
+- In 2- and 4-pane layouts, each pane's product picker could render on top of the Settings and
+  animation-export windows instead of behind them.
+- Clutter Filter Power's data was silently dropped during frame compaction, so it never actually
+  had anything to display even before today.
+- Fixed the map briefly rendering blank and the app dropping frames when the UI scale was set
+  smaller than 100%.
+- The "Saved screenshot/animation to..." message now fades out on its own a few seconds after
+  saving.
+- The Windows app icon is now embedded in the executable, so it shows correctly in Explorer, the
+  desktop shortcut, and the taskbar.
+
 ## [0.4.0] - 2026-09-26
 
 ### Added
