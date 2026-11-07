@@ -1,17 +1,17 @@
 {
-  "total": 55,
-  "macos": 26,
-  "windows": 29,
+  "total": 65,
+  "macos": 31,
+  "windows": 34,
   "versions": {
     "0.6.1": {
-      "macos": 0,
-      "windows": 0,
-      "total": 0
+      "macos": 4,
+      "windows": 4,
+      "total": 8
     },
     "0.6.0": {
-      "macos": 4,
-      "windows": 3,
-      "total": 7
+      "macos": 5,
+      "windows": 4,
+      "total": 9
     },
     "0.5.1": {
       "macos": 4,
