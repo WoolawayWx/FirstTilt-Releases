@@ -10,6 +10,11 @@ under the new version when you release.
 
 ## [Unreleased]
 
+## [0.6.1] - 2026-11-07
+
+### Fixed
+- On Windows, FirstTilt now asks Explorer to refresh its icons the first time you start a new version, so shortcuts and the taskbar stop showing an old icon left over from a previous version.
+
 ## [0.6.0] - 2026-11-07
 
 ### Added
