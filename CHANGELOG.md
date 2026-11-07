@@ -10,6 +10,13 @@ under the new version when you release.
 
 ## [Unreleased]
 
+## [0.6.2] - 2026-11-07
+
+### Added
+- The browser viewer now has a dual-pane mode. The Dual button (or the 1 and 2 keys) shows two radar panes side by side, or stacked on narrow screens, each with its own product. The panes share the site, elevation, playback, and a linked pan and zoom.
+- The browser viewer now shows weather alerts. Active warnings, watches, and advisories are drawn on the map, and the new Alerts panel lists them with expiration times, hail, wind, and tornado details. Choose which alert types to show in the panel, or turn alerts off in Settings.
+- The browser viewer keeps loading new scans and alerts while its tab is in the background, so the loop is current when you switch back. It also fills in scans it missed while the tab was asleep.
+
 ## [0.6.1] - 2026-11-07
 
 ### Fixed
