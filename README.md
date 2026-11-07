@@ -29,10 +29,10 @@ Developed by **WoolawayWx** • Free to Use
 
 ## Download & Installation
 
-**Latest version: 0.6.0**
+**Latest version: 0.6.1**
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.6.0/FirstTilt_0.6.0_apple-silicon.dmg)
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.6.0/firsttilt_0.6.0_x64-setup.exe)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.6.1/FirstTilt_0.6.1_apple-silicon.dmg)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.6.1/firsttilt_0.6.1_x64-setup.exe)
 
 Portable copies that don't need installing are listed under **Assets** on the
 [latest release](https://github.com/WoolawayWx/FirstTilt-Releases/releases/latest).
@@ -67,6 +67,7 @@ Download counts update once a day.
 
 | Version | Released | macOS | Windows | Total |
 | --- | --- | --- | --- | --- |
+| [0.6.1](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.6.1) | 2026-11-07 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.1%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.1%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.1%27%5D.total&label=Total&color=2f81f7) |
 | [0.6.0](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.6.0) | 2026-11-07 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.0%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.0%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.0%27%5D.total&label=Total&color=2f81f7) |
 | [0.5.1](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.5.1) | 2026-09-27 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.1%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.1%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.1%27%5D.total&label=Total&color=2f81f7) |
 | [0.5.0](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.5.0) | 2026-09-27 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.0%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.0%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.0%27%5D.total&label=Total&color=2f81f7) |
@@ -74,35 +75,10 @@ Download counts update once a day.
 | [0.3.0](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.3.0) | 2026-09-26 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.3.0%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.3.0%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.3.0%27%5D.total&label=Total&color=2f81f7) |
 | [0.2.2](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.2.2) | 2026-09-10 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.2.2%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.2.2%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.2.2%27%5D.total&label=Total&color=2f81f7) |
 
-### What's new in 0.6.0
-
-#### Added
-- FirstTilt has a browser viewer with site and product selection, live scans, and playback. Choose the WoolawayWx radar feed or process NEXRAD Level II scans on your device.
-- Settings now gives you access to local diagnostics. FirstTilt keeps recent desktop session logs and Rust panic reports, and the web viewer can download a report of recent errors.
-- FirstTilt can send limited crash reports automatically to WoolawayWx. Automatic reporting is on by default in builds with a report collector. You can turn it off in Settings or review and send a report yourself.
+### What's new in 0.6.1
 
 #### Fixed
-- Dragging the "maximum frames" slider no longer deletes loaded frames along the way, and dragging the polling-interval slider no longer restarts live updates on every step. Both apply when you let go.
-- The P shortcut now saves the product you land on and skips products that have no data. Single-letter shortcuts no longer fire when Ctrl, Cmd, or Alt is held.
-- Esc now closes the update prompt.
-- Map layer order set in Settings is now remembered between launches, and the move buttons are disabled at the ends of the list.
-- Live radar updates are now merged by compass angle instead of by each volume's radial order, which could blank part of a sweep or draw part of it twice when a new volume started at a different angle.
-- Radar downloads and listings now time out and retry instead of hanging forever, and a network problem is reported as one rather than as "no scans available". Switching sites no longer waits on the old site's live catch-up.
-- Switching product or tilt while a live update arrives no longer mixes products on the timeline or leaves frames blank.
-- The live watcher no longer re-processes the same partial volume while waiting for new data.
-- Disabled playback buttons now explain why. Color-table import messages clear on their own.
-- Choosing a screenshot, animation, color table, or archive no longer freezes FirstTilt while the file dialog is open, and live updates no longer stall the interface while they are merged.
-- Zooming in is limited to a level where radar and map lines stay steady instead of jittering.
-- The web viewer is more dependable on slow connections: downloads show progress, retry automatically if the connection drops, and have a Retry button if they fail.
-
-#### Changed
-- Settings is now organized into pages (General, Radar, Map, Alerts, Labels, About & diagnostics) with reset buttons for the basemap, alerts, and labels, an interface size control, and a diagnostics folder button.
-- New shortcuts: R shows or hides radar data, T cycles the elevation tilt, H loads history, A opens the Alerts panel, 1/2/4 choose the number of map panes, and Ctrl/Cmd+, opens Settings. A new top-bar button toggles radar data too.
-- The timeline lets you drag to scrub through frames and shows each frame's time when you hover it. Icon buttons now have names for screen readers.
-- The web viewer works better on phones (pinch and double-tap zoom, Previous/Next stay on screen), lets you type to search for a site or tap one on the map, shows the elevation angle, and can be panned from the keyboard. Background tabs stop polling.
-- Live radar playback and the IEM feed use less memory and bandwidth, and the radar cache is written safely.
-- FirstTilt has a new look for its icon and logo, in the WoolawayWx burgundy, ink and cream: an FT monogram under a radar scope with a lightning-bolt sweep. It replaces the rainbow icon in the app, the installers, the macOS disk image, and the browser viewer's tab icon and header.
-- The desktop app and browser viewer use the same colors as the new logo: warm ink backgrounds, cream text and highlights, and burgundy for selected items and primary buttons. Radar and alert colors are unchanged.
+- On Windows, FirstTilt now asks Explorer to refresh its icons the first time you start a new version, so shortcuts and the taskbar stop showing an old icon left over from a previous version.
 
 ---
 
