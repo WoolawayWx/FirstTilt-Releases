@@ -29,10 +29,10 @@ Developed by **WoolawayWx** • Free to Use
 
 ## Download & Installation
 
-**Latest version: 0.6.1**
+**Latest version: 0.6.2**
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.6.1/FirstTilt_0.6.1_apple-silicon.dmg)
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.6.1/firsttilt_0.6.1_x64-setup.exe)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.6.2/FirstTilt_0.6.2_apple-silicon.dmg)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/WoolawayWx/FirstTilt-Releases/releases/download/v0.6.2/firsttilt_0.6.2_x64-setup.exe)
 
 Portable copies that don't need installing are listed under **Assets** on the
 [latest release](https://github.com/WoolawayWx/FirstTilt-Releases/releases/latest).
@@ -67,6 +67,7 @@ Download counts update once a day.
 
 | Version | Released | macOS | Windows | Total |
 | --- | --- | --- | --- | --- |
+| [0.6.2](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.6.2) | 2026-11-07 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.2%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.2%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.2%27%5D.total&label=Total&color=2f81f7) |
 | [0.6.1](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.6.1) | 2026-11-07 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.1%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.1%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.1%27%5D.total&label=Total&color=2f81f7) |
 | [0.6.0](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.6.0) | 2026-11-07 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.0%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.0%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.6.0%27%5D.total&label=Total&color=2f81f7) |
 | [0.5.1](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.5.1) | 2026-09-27 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.1%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.1%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.5.1%27%5D.total&label=Total&color=2f81f7) |
@@ -75,10 +76,12 @@ Download counts update once a day.
 | [0.3.0](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.3.0) | 2026-09-26 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.3.0%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.3.0%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.3.0%27%5D.total&label=Total&color=2f81f7) |
 | [0.2.2](https://github.com/WoolawayWx/FirstTilt-Releases/releases/tag/v0.2.2) | 2026-09-10 | ![macOS](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.2.2%27%5D.macos&label=macOS&color=2f81f7) | ![Windows](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.2.2%27%5D.windows&label=Windows&color=2f81f7) | ![Total](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FWoolawayWx%2FFirstTilt-Releases%2FHEAD%2F.github%2Fdownloads.json&query=%24.versions%5B%270.2.2%27%5D.total&label=Total&color=2f81f7) |
 
-### What's new in 0.6.1
+### What's new in 0.6.2
 
-#### Fixed
-- On Windows, FirstTilt now asks Explorer to refresh its icons the first time you start a new version, so shortcuts and the taskbar stop showing an old icon left over from a previous version.
+#### Added
+- The browser viewer now has a dual-pane mode. The Dual button (or the 1 and 2 keys) shows two radar panes side by side, or stacked on narrow screens, each with its own product. The panes share the site, elevation, playback, and a linked pan and zoom.
+- The browser viewer now shows weather alerts. Active warnings, watches, and advisories are drawn on the map, and the new Alerts panel lists them with expiration times, hail, wind, and tornado details. Choose which alert types to show in the panel, or turn alerts off in Settings.
+- The browser viewer keeps loading new scans and alerts while its tab is in the background, so the loop is current when you switch back. It also fills in scans it missed while the tab was asleep.
 
 ---
 
